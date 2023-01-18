@@ -41,7 +41,7 @@ public class CarsController {
 
 <img align="center" width="360em" height="450em" src="src\img\POST_HttpResponse_Ok.PNG" />
 
-### Second GET when the cars where posted (Response `200 - OK`)
+### Second GET when the cars were posted (Response `200 - OK`)
 
 <img align="center" width="360em" height="450em" src="src\img\GET_HttpResponse_Ok.PNG" />
 
